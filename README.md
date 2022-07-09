@@ -81,6 +81,7 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - [Erchiqui Azzeddine](https://twitter.com/zertox1) zertox1
 - [C3P0](https://twitter.com/c3p01337) c3p01337
 - [Maher](https://twitter.com/azz_maher) Maher
+- [Isma](https://github.com/ismailvc1111) 0xiSmA12
 - [Abdél Hafid Ait Chikh](https://twitter.com/hafidaitchikh) abdelhafid
 - [Momo Outaadi](https://github.com/m4ll0k) m4ll0k
 - [Amineetabdenour](https://github.com/amine123ait) Mr.Echo
